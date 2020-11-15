@@ -1,5 +1,7 @@
 ## Bearer
 
+- [x] Swagger UI authorize
+
 ```bash
 set T (
     echo '{ "user": "xyz", "password": "123" }' \
